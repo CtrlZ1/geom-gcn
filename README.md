@@ -1,13 +1,15 @@
 # Geom-GCN: Geometric Graph Convolutional Networks
 
-@inproceedings{ICLR2020GeomGCN,
- title={Geom-GCN: Geometric Graph Convolutional Networks},
- author={Pei, Hongbin and Wei, Bingzhe and Chang, Kevin Chen-Chuan and Lei, Yu and Yang, Bo},
- booktitle={International Conference on Learning Representations (ICLR)},
- year={2020}
-}
+## Accepted by ICLR 2020: https://openreview.net/forum?id=S1e2agrFvS
 
-## ICLR 2020 Submission
+If you find our paper and/or code useful in your research, please cite the following paper:
+
+>@inproceedings{ICLR2020GeomGCN,  
+> title={Geom-GCN: Geometric Graph Convolutional Networks},  
+> author={Pei, Hongbin and Wei, Bingzhe and Chang, Kevin Chen-Chuan and Lei, Yu and Yang, Bo},  
+> booktitle={International Conference on Learning Representations (ICLR)},  
+> year={2020}  
+>}  
 
 #### Required Packages
 PyTorch, NetworkX, DGL, Numpy, Scipy, Scikit-Learn, Tensorboard, TensorboardX

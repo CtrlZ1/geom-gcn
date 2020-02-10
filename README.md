@@ -27,7 +27,14 @@ If you find our paper and/or code useful in your research, please cite the follo
 ## Code
 
 #### Required Packages
-PyTorch, NetworkX, DGL, Numpy, Scipy, Scikit-Learn, Tensorboard, TensorboardX
+1. PyTorch
+2. NetworkX
+3. Deep Graph Library https://www.dgl.ai/
+4. Numpy
+5. Scipy
+6. Scikit-Learn
+7. Tensorflow
+8. TensorboardX https://github.com/lanpa/tensorboardX
 
 #### Table 3
 To replicate the Geom-GCN results from Table 3, run

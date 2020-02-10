@@ -1,5 +1,7 @@
 # Geom-GCN: Geometric Graph Convolutional Networks
 ### Authors
+Hongbin Pei, Bingzhe Wei, Kevin Chen-Chuan Chang, Yu Lei, Bo Yang
+
 GraphDML-UIUC-JLU: Graph-structured Data Mining and Machine Learning at University of Illinois at Urbana-Champaign (UIUC) and Jilin University (JLU)
 
 ## Accepted by ICLR 2020: https://openreview.net/forum?id=S1e2agrFvS
